@@ -4,7 +4,7 @@
   const STORAGE_KEY = 'flower.greeting.20-10.v1';
   const defaultGreeting = {
     recipient: 'Phương',
-    message: 'Nhân ngày Phụ nữ Việt Nam 20/10, chúc Phương luôn khỏe mạnh, bình an và có thật nhiều niềm vui.\n\nMong Phương được yêu thương từ những điều nhỏ nhất, có thời gian cho bản thân và tự tin theo đuổi những điều mình mong muốn.\n\nHôm nay và cả những ngày sau, hãy luôn mỉm cười theo cách của riêng Phương nhé.',
+    message: 'Nhân ngày 20/10, chúc em bình an và nhiều hạnh phúc.\n\nMong cho mọi chuyện luôn nhẹ nhàng giống như cách anh đối xử với em.\n\nHôm nay và sau này mong anh sẽ là điểm tựa tinh thần cho em.',
     sender: 'Viên người quý mến Phương'
   };
   const dialog = document.getElementById('greetingCard');
